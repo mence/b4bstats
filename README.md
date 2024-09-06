@@ -13,6 +13,8 @@ To install project locally, make sure to have NodeJs (version 16.14.0 at least) 
 
 ## Commands
 
+**Locally via node:**
+
 ```shell
 # Install dependencies
 yarn
@@ -22,6 +24,12 @@ yarn dev
 
 # Build and export to static files
 yarn export
+```
+
+**Via Docker Compose:**
+
+```shell
+docker compose up --build
 ```
 
 ## Credits
