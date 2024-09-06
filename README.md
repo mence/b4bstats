@@ -9,7 +9,7 @@ To install project locally, make sure to have NodeJs (version 16.14.0 at least) 
 * Clone the project `git clone git@github.com:Mazzzoni/b4bstats.git`
 * Enter project `cd b4bstats/`
 * Install dependencies `yarn`
-* Start dev environment `yarn start:dev`
+* Start dev environment `yarn dev`
 
 ## Commands
 
@@ -18,7 +18,7 @@ To install project locally, make sure to have NodeJs (version 16.14.0 at least) 
 yarn
 
 # Serve dev
-yarn start:dev
+yarn dev
 
 # Build and export to static files
 yarn export
@@ -26,5 +26,5 @@ yarn export
 
 ## Credits
 
-Created by [Mazzoni](https://github.com/Mazzzoni). (email: [hello@mazz.lol](mailto:hello@mazz.lol) / discord: [@mazz#0385](https://discordapp.com/users/370123066594033668))  
+Created by [Mazzoni](https://github.com/Mazzzoni). (email: [hello@mazz.lol](mailto:hello@mazz.lol) / discord: [@mazz#0385](https://discordapp.com/users/370123066594033668))
 Thanks to [r/Back4Blood/](https://www.reddit.com/r/Back4Blood/) and [Turtle Rock Studios](https://turtlerockstudios.com/) for their support and contributions.

@@ -1,0 +1,9 @@
+services:
+  b4bstats:
+    build:
+      context: .
+    ports:
+      - '3000:3000'
+    volumes:
+      - './src:/app/src'
+      - './data:/app/data'
